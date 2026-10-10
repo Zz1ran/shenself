@@ -1,0 +1,1814 @@
+{
+  "sections": [
+    {
+      "id": "intro",
+      "title": "專輯簡介",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "從音樂裡分聲不同化身"
+        },
+        {
+          "type": "paragraph",
+          "text": "不停探尋更「深」處的自己"
+        },
+        {
+          "type": "paragraph",
+          "text": "散落在音符文字間的線索碎片"
+        },
+        {
+          "type": "paragraph",
+          "text": "等待我們重組屬於自己的完整"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "製作人錢雷 量聲定做"
+        },
+        {
+          "type": "paragraph",
+          "text": "以匠人之心 雕琢打磨"
+        }
+      ]
+    },
+    {
+      "id": "concept",
+      "title": "專輯概念",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "【反身代詞】語言學中指代動作執行者本身，在句中起強調或者反射作用。我自己，你自己，他們自己等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "反「深」代詞，即反面的周深，與大眾熟悉的周深相反，是未被發現的一面。"
+        },
+        {
+          "type": "paragraph",
+          "text": "另一方面，如同反身代詞一樣，表示周深自己，在音樂裡化作不同分身。"
+        },
+        {
+          "type": "paragraph",
+          "text": "或揉雜各種情緒，或捏合一方盛景，在我們無法用語言、情緒、動作、表情來準確表達時，借用音樂化作不同化身進行探索，漸漸明晰出一些形狀。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這些或完整、或片段、或疏離、或緊密的碎片，剛好借以周深的細膩完整表達，能夠被梳理成篇，成為了第二張個人專輯作品的主題。"
+        }
+      ]
+    },
+    {
+      "id": "scene",
+      "title": "時間場景",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "200年後的世界。"
+        },
+        {
+          "type": "paragraph",
+          "text": "科技迅猛發展的後現代世界，會是什麼樣子呢？"
+        },
+        {
+          "type": "paragraph",
+          "text": "如果時間旅行在未來可以實現，"
+        },
+        {
+          "type": "paragraph",
+          "text": "也許現在的我就能跟那時的你建立聯絡。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "那，永恆不變的是什麼？"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "那個時候的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "人類還有執念嗎？"
+        },
+        {
+          "type": "paragraph",
+          "text": "會讓我們得以重啟選擇錯失的一切嗎？"
+        },
+        {
+          "type": "paragraph",
+          "text": "每段珍貴的記憶可以儲存起來在商店寄存售賣互借溫暖嗎？"
+        },
+        {
+          "type": "paragraph",
+          "text": "機器人能夠理解人類人格嗎？"
+        },
+        {
+          "type": "paragraph",
+          "text": "我可以更自由地做我自己嗎？"
+        },
+        {
+          "type": "paragraph",
+          "text": "世界會改變我們作為人的初衷嗎？"
+        },
+        {
+          "type": "paragraph",
+          "text": "不變的是否還是人彼此之間的情感連接呢？"
+        },
+        {
+          "type": "paragraph",
+          "text": "..."
+        }
+      ]
+    }
+  ],
+  "songsTitle": "專輯歌曲",
+  "tracks": [
+    {
+      "id": "track-01",
+      "number": 1,
+      "originalHeading": "01.《深 Intro》",
+      "title": "深 Intro",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "捲入一場風暴，"
+        },
+        {
+          "type": "paragraph",
+          "text": "升起，離心，瘋狂失速。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "冷靜下來之後，"
+        },
+        {
+          "type": "paragraph",
+          "text": "開始一場抽離自我的觀察。"
+        }
+      ]
+    },
+    {
+      "id": "track-02",
+      "number": 2,
+      "originalHeading": "02.《蜃樓 Mirage》",
+      "title": "蜃樓 Mirage",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "無論現在還是未來，"
+        },
+        {
+          "type": "paragraph",
+          "text": "我們的內心深處都一定保有一方綠洲，"
+        },
+        {
+          "type": "paragraph",
+          "text": "那些讓我們執著的念想："
+        },
+        {
+          "type": "paragraph",
+          "text": "是某個人、某件事、某個場景，"
+        },
+        {
+          "type": "paragraph",
+          "text": "以一種可望而不可及的距離，以缺憾或希望的形式，"
+        },
+        {
+          "type": "paragraph",
+          "text": "成為了心底的執念。"
+        },
+        {
+          "type": "paragraph",
+          "text": "有人因執念困在原地。"
+        },
+        {
+          "type": "paragraph",
+          "text": "有人靠執念繼續前行。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "執念在心底幻化成想像的蜃樓，"
+        },
+        {
+          "type": "paragraph",
+          "text": "它們具體又幻象，疏離又遙遠，"
+        },
+        {
+          "type": "paragraph",
+          "text": "但讓人們更明白作為生命存在和守護的意義。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "你看到的蜃樓是什麼樣子呢？"
+        },
+        {
+          "type": "paragraph",
+          "text": "你心底還放不下的執念，是什麼呢？"
+        }
+      ]
+    },
+    {
+      "id": "track-03",
+      "number": 3,
+      "originalHeading": "03.《重啟 Restart》",
+      "title": "重啟 Restart",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果有機會重啟人生，"
+        },
+        {
+          "type": "paragraph",
+          "text": "將這一切重新來過，"
+        },
+        {
+          "type": "paragraph",
+          "text": "是否能彌補所有遺憾，"
+        },
+        {
+          "type": "paragraph",
+          "text": "擁有一個完美人生？"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "200年後的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "每個人都擁有「重啟」的機會。"
+        },
+        {
+          "type": "paragraph",
+          "text": "可以隨時帶著記憶重新開始，"
+        },
+        {
+          "type": "paragraph",
+          "text": "去彌補曾經的遺憾。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "但當再次經歷過去，"
+        },
+        {
+          "type": "paragraph",
+          "text": "感受最初的美好；"
+        },
+        {
+          "type": "paragraph",
+          "text": "修正所有的錯誤，"
+        },
+        {
+          "type": "paragraph",
+          "text": "人生就真的完美無缺了嗎？"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "如果是你，會選擇按下重啟按鈕嗎？"
+        }
+      ]
+    },
+    {
+      "id": "track-04",
+      "number": 4,
+      "originalHeading": "04.《記憶商店 The Memory Store》",
+      "title": "記憶商店 The Memory Store",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "200年後的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "美好的記憶都可以購買。"
+        },
+        {
+          "type": "paragraph",
+          "text": "所有的美好瞬間，"
+        },
+        {
+          "type": "paragraph",
+          "text": "熟悉的幸福時刻。"
+        },
+        {
+          "type": "paragraph",
+          "text": "都被商家提取出來售賣。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一位顧客，"
+        },
+        {
+          "type": "paragraph",
+          "text": "找遍了所有的記憶商店，"
+        },
+        {
+          "type": "paragraph",
+          "text": "想找回兒時擁有過的普通鞦韆，"
+        },
+        {
+          "type": "paragraph",
+          "text": "卻總是失落而歸，"
+        },
+        {
+          "type": "paragraph",
+          "text": "怎麼也找不到。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "今天的他，又被店家推薦了——"
+        },
+        {
+          "type": "paragraph",
+          "text": "沒噩夢的睡眠、真實的擁抱、最新款的流星雨等等貨品，"
+        },
+        {
+          "type": "paragraph",
+          "text": "但在這些所有漂浮的美好裡，"
+        },
+        {
+          "type": "paragraph",
+          "text": "他只是單純想買一個落地的樸實心願罷了。"
+        }
+      ]
+    },
+    {
+      "id": "track-05",
+      "number": 5,
+      "originalHeading": "05.《警報 The Giver》",
+      "title": "警報 The Giver",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "200年後的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "每個人都會配備一隻AI小機器人陪伴成長。"
+        },
+        {
+          "type": "paragraph",
+          "text": "觀察記錄主人的行為情感。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一隻小機器人，"
+        },
+        {
+          "type": "paragraph",
+          "text": "發現過於善良的主人，"
+        },
+        {
+          "type": "paragraph",
+          "text": "不停在人際關係的上游、中游或下游付出所有，"
+        },
+        {
+          "type": "paragraph",
+          "text": "卻看不見自己快要斷流，"
+        },
+        {
+          "type": "paragraph",
+          "text": "傷得越重笑得越輕鬆，"
+        },
+        {
+          "type": "paragraph",
+          "text": "內心越痛笑得越隆重。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "久而久之，"
+        },
+        {
+          "type": "paragraph",
+          "text": "主人狀態越來越差，"
+        },
+        {
+          "type": "paragraph",
+          "text": "情緒價值被耗空，"
+        },
+        {
+          "type": "paragraph",
+          "text": "機器人向主人發出警報，"
+        },
+        {
+          "type": "paragraph",
+          "text": "希望主人能夠先好好保護自己。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "但無奈，警報無人聽懂，"
+        },
+        {
+          "type": "paragraph",
+          "text": "最終人工智慧也學會了心痛。"
+        }
+      ]
+    },
+    {
+      "id": "track-06",
+      "number": 6,
+      "originalHeading": "06.《少管我 Shao Guan Wo (Watch Ur Manners)》",
+      "title": "少管我 Shao Guan Wo (Watch Ur Manners)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "200年後的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "人類不再被地理位置限制，"
+        },
+        {
+          "type": "paragraph",
+          "text": "隨時都可以開啟一場想去哪裡就去哪里的旅行，"
+        },
+        {
+          "type": "paragraph",
+          "text": "隨時可以變化成任何場景的任何事物，"
+        },
+        {
+          "type": "paragraph",
+          "text": "可以成為風中飄散的花，"
+        },
+        {
+          "type": "paragraph",
+          "text": "飄到水星，或者墜入泥巴，"
+        },
+        {
+          "type": "paragraph",
+          "text": "也許不討你喜歡？"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "但當我開啟這場旅行的時候，"
+        },
+        {
+          "type": "paragraph",
+          "text": "請你，"
+        },
+        {
+          "type": "paragraph",
+          "text": "少管我！！！"
+        }
+      ]
+    },
+    {
+      "id": "track-07",
+      "number": 7,
+      "originalHeading": "07.《嗨 Say Hi》",
+      "title": "嗨 Say Hi",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "200年後的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個尋常的下午，"
+        },
+        {
+          "type": "paragraph",
+          "text": "一位拾荒者被一抹異常的反光所吸引，"
+        },
+        {
+          "type": "paragraph",
+          "text": "一塊不屬於現代的古老金屬破土而出。"
+        },
+        {
+          "type": "paragraph",
+          "text": "經過一陣茫然地摸索觸碰，"
+        },
+        {
+          "type": "paragraph",
+          "text": "「哦~說聲嗨」"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個帶著些微噪音的聲音響起，"
+        },
+        {
+          "type": "paragraph",
+          "text": "拾荒者遲疑地看著眼前古怪的「機器」。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "「嗨？」"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "那個平常的下午，"
+        },
+        {
+          "type": "paragraph",
+          "text": "越來越多的人從四面八方趕來。"
+        },
+        {
+          "type": "paragraph",
+          "text": "他們站在廢墟之上，"
+        },
+        {
+          "type": "paragraph",
+          "text": "一起屏氣凝神，"
+        },
+        {
+          "type": "paragraph",
+          "text": "聽溫柔的歌聲，"
+        },
+        {
+          "type": "paragraph",
+          "text": "在整個天空中緩緩流淌。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "而那個200年前的男孩對此一無所知，"
+        },
+        {
+          "type": "paragraph",
+          "text": "他只是不知疲倦地唱著，"
+        },
+        {
+          "type": "paragraph",
+          "text": "溫柔地吟唱著："
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "「哦說聲嗨，"
+        },
+        {
+          "type": "paragraph",
+          "text": "知道你一定會來。」"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "當人類隨時都可以傳送到任何想去的地方，"
+        },
+        {
+          "type": "paragraph",
+          "text": "人們會因為沒有阻礙的見面而變得更相愛嗎？"
+        }
+      ]
+    },
+    {
+      "id": "track-08",
+      "number": 8,
+      "originalHeading": "08.《縫合 Fix You》",
+      "title": "縫合 Fix You",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "在200年後的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "所有受傷的人類都會被一種神奇的機器人縫合。"
+        },
+        {
+          "type": "paragraph",
+          "text": "成年機器人負責縫合大人，幼年機器人負責縫合孩子，"
+        },
+        {
+          "type": "paragraph",
+          "text": "它們組成家庭，協同工作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "而所有人類的傷口最終都會癒合，"
+        },
+        {
+          "type": "paragraph",
+          "text": "除了一个部位…"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "某天，一隻幼年縫合機器人向它的父母求助："
+        },
+        {
+          "type": "paragraph",
+          "text": "「這顆孩子的心，昨天明明縫上了，今天傷口卻崩開了…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "同樣是縫合機器人的父母卻露出習以為常的笑容："
+        },
+        {
+          "type": "paragraph",
+          "text": "「大人的心也是一樣難縫啊…不過，等你多縫幾次就會習慣啦。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "小機器人下意識敲了敲自己的胸口——"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬外殼裡傳來空洞的回聲。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「一個沒有心的機器人，能縫好一顆流血的心嗎？」"
+        },
+        {
+          "type": "paragraph",
+          "text": "它想。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "小機器人決定和父母交換工作對象，"
+        },
+        {
+          "type": "paragraph",
+          "text": "它想找到「徹底縫合」的答案。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "在父母的陪伴和注視下，"
+        },
+        {
+          "type": "paragraph",
+          "text": "它滿懷期待地打開成年人類的胸腔——"
+        },
+        {
+          "type": "paragraph",
+          "text": "誤解、遺憾、愧疚、無奈、自責、痛苦……"
+        },
+        {
+          "type": "paragraph",
+          "text": "情緒的重重疤痕新舊交錯，"
+        },
+        {
+          "type": "paragraph",
+          "text": "覆蓋在一顆正在滴血的心臟之上。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "「我們真的無法縫合對方的心，對嗎？爸爸、媽媽…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「也許吧…但是只要心臟依然在跳著，我們就有再重新縫合的機會。」"
+        }
+      ]
+    },
+    {
+      "id": "track-09",
+      "number": 9,
+      "originalHeading": "09.《Wala li longla》",
+      "title": "Wala li longla",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "200年後的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "日新月異的科技終於突破奇點，"
+        },
+        {
+          "type": "paragraph",
+          "text": "那些只存在於傳說裡的幻想之物，"
+        },
+        {
+          "type": "paragraph",
+          "text": "終於變成了現實。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "某天，人們收到了一則全息短信。"
+        },
+        {
+          "type": "paragraph",
+          "text": "一隻虛擬精靈跳到眼前。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「重磅新聞！"
+        },
+        {
+          "type": "paragraph",
+          "text": "人類史上最著名的爛尾建築，終於在今日完工啦！」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「來，快跟我一起去看看吧！"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wala li longla！」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「Wala…什麼？」"
+        },
+        {
+          "type": "paragraph",
+          "text": "他們被一股奇妙的力量輕輕托起。"
+        },
+        {
+          "type": "paragraph",
+          "text": "歌聲伴著光芒漸漸散去，"
+        },
+        {
+          "type": "paragraph",
+          "text": "人們仰起頭，"
+        },
+        {
+          "type": "paragraph",
+          "text": "龐大不可名狀之物矗立眼前——"
+        },
+        {
+          "type": "paragraph",
+          "text": "一座通天塔。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "敬畏和驚愕中，"
+        },
+        {
+          "type": "paragraph",
+          "text": "一團閃爍的星芒尖叫著，"
+        },
+        {
+          "type": "paragraph",
+          "text": "順著螺旋階梯輕盈滑下："
+        },
+        {
+          "type": "paragraph",
+          "text": "「歡迎來到「巴別塔——2224 CE無界溝通全宇宙」的揭幕現場！"
+        },
+        {
+          "type": "paragraph",
+          "text": "只要你只要念一句"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wala li longla！"
+        },
+        {
+          "type": "paragraph",
+          "text": "就能聽懂任何一個TA的話！"
+        },
+        {
+          "type": "paragraph",
+          "text": "沒錯！"
+        },
+        {
+          "type": "paragraph",
+          "text": "這是為整個宇宙所有物種提供溝通服務的超級解碼器。"
+        },
+        {
+          "type": "paragraph",
+          "text": "只要你們願意，"
+        },
+        {
+          "type": "paragraph",
+          "text": "就可以自由共享彼此的一切！"
+        },
+        {
+          "type": "paragraph",
+          "text": "文化記憶、歷史故事、身份認同、情感共鳴…"
+        },
+        {
+          "type": "paragraph",
+          "text": "不再有誤解，也不再有隔閡！"
+        },
+        {
+          "type": "paragraph",
+          "text": "來，"
+        },
+        {
+          "type": "paragraph",
+          "text": "奔向你的TA！"
+        },
+        {
+          "type": "paragraph",
+          "text": "跟我一起念！！"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wala li longla！！！」"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "喃喃的念白如雷聲般滾滾而來，"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個個夢幻的氣泡漸次浮起。"
+        },
+        {
+          "type": "paragraph",
+          "text": "一道道同頻的信號劃過天穹，"
+        },
+        {
+          "type": "paragraph",
+          "text": "被白色巨塔的塔尖不斷接收又不斷發出。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "要是有人站在地面極目向上望，"
+        },
+        {
+          "type": "paragraph",
+          "text": "還能瞥見一個輕快的殘影繞著塔身翩翩飛舞。"
+        },
+        {
+          "type": "paragraph",
+          "text": "快樂的歌聲從天空飄然落下，"
+        },
+        {
+          "type": "paragraph",
+          "text": "「Wala li longla！！！」"
+        }
+      ]
+    },
+    {
+      "id": "track-10",
+      "number": 10,
+      "originalHeading": "10.《空殼 Shen》",
+      "title": "空殼 Shen",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "200年後的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "新的智慧生命可以從共同的想像力中誕生。"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個念頭被飛速傳播獲得了廣泛共鳴後，"
+        },
+        {
+          "type": "paragraph",
+          "text": "抽象的願景就會長出具象的血肉。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "「假如有一個裝不滿的樹洞，"
+        },
+        {
+          "type": "paragraph",
+          "text": "能帶走我所有的心事，"
+        },
+        {
+          "type": "paragraph",
+          "text": "該有多好。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "於是，一個名為空殼的「樹洞」出生了。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "大霧瀰漫的清晨，"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個緩慢靠近的巨影逐漸顯形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "人們走向它，"
+        },
+        {
+          "type": "paragraph",
+          "text": "或眷戀或釋然地撫過粗糙的殼身，"
+        },
+        {
+          "type": "paragraph",
+          "text": "把沉甸甸的信物交給它，"
+        },
+        {
+          "type": "paragraph",
+          "text": "「我愛你，再見。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "落袋的回聲出乎意料的溫柔，"
+        },
+        {
+          "type": "paragraph",
+          "text": "如海底傳來的悠長鯨鳴。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "隱秘被收藏，情緒被接納；"
+        },
+        {
+          "type": "paragraph",
+          "text": "心聲被聆聽，信任被珍重。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "裝滿信物的空殼乘著星光離去，"
+        },
+        {
+          "type": "paragraph",
+          "text": "向下一個目的地出發。"
+        },
+        {
+          "type": "paragraph",
+          "text": "它抱緊身後的行囊，"
+        },
+        {
+          "type": "paragraph",
+          "text": "猶如抱緊無數人黑甜的夢鄉，"
+        },
+        {
+          "type": "paragraph",
+          "text": "「謝謝，再見。"
+        },
+        {
+          "type": "paragraph",
+          "text": "你不會被弄丟，"
+        },
+        {
+          "type": "paragraph",
+          "text": "我們終將重逢。」"
+        }
+      ]
+    },
+    {
+      "id": "track-11",
+      "number": 11,
+      "originalHeading": "11.《沒關係 Life is Like a Box of Chocolates》",
+      "title": "沒關係 Life is Like a Box of Chocolates",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "200年後的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "幸福指數能夠被AI觀測並準確讀取。"
+        },
+        {
+          "type": "paragraph",
+          "text": "如果你感覺自己的情緒出現了問題，"
+        },
+        {
+          "type": "paragraph",
+          "text": "可以前往「幸福製造工作室」尋求幫助。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "某天，幸福機器人迎來了它的第19920929名諮詢者。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「我覺得生活太窒息了…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "面前的監視器上跳出紅色的警告字樣，"
+        },
+        {
+          "type": "paragraph",
+          "text": "它平靜地移開視線："
+        },
+        {
+          "type": "paragraph",
+          "text": "「您的幸福指數顯示在正常範圍。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「啊？可是我真的很差勁…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「看您的臉色，是不是沒睡好？」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「持續熬夜…趕工作進度…但還是怎麼做怎麼都不對…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「沒關係」，"
+        },
+        {
+          "type": "paragraph",
+          "text": "幸福機器人一邊說一邊走進「後台」字樣的門："
+        },
+        {
+          "type": "paragraph",
+          "text": "「這是最新研發出來的產品，剛剛面市。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "返回後它遞上一個精緻的紙包，"
+        },
+        {
+          "type": "paragraph",
+          "text": "「祝你睡個好覺。」"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "「下一位，請進。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「和父母大吵一架…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「重要的考試失敗了…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「收到了分手短信…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「最好的朋友不再聯繫了…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "閃爍的紅光間或跳動在幸福機器人的虹膜上。"
+        },
+        {
+          "type": "paragraph",
+          "text": "它用安靜的溫柔聆聽，"
+        },
+        {
+          "type": "paragraph",
+          "text": "「其實，都沒關係。」"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "「痛快哭一場。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「好好睡一覺。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「笑笑也無妨。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「別勉強自己。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「做不到也沒關係。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "…"
+        },
+        {
+          "type": "paragraph",
+          "text": "人們帶著機器人的饋贈心滿意足地離去，"
+        },
+        {
+          "type": "paragraph",
+          "text": "拆開紙包吞下情緒的解藥——"
+        },
+        {
+          "type": "paragraph",
+          "text": "苦澀褪去後，一絲回甘湧上心頭，"
+        },
+        {
+          "type": "paragraph",
+          "text": "生活即將迎來嶄新的一天。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "台前的工作結束了，"
+        },
+        {
+          "type": "paragraph",
+          "text": "幸福機器人按照慣例測量自己。"
+        },
+        {
+          "type": "paragraph",
+          "text": "綠色的提示框彈出："
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "「您的心情指數：非常幸福！」"
+        },
+        {
+          "type": "paragraph",
+          "text": "它拉開「後台」的門，"
+        },
+        {
+          "type": "paragraph",
+          "text": "「吱呀」——"
+        },
+        {
+          "type": "paragraph",
+          "text": "一間小小的巧克力手工作坊映入眼簾。"
+        },
+        {
+          "type": "paragraph",
+          "text": "環視著空蕩蕩的貨架，"
+        },
+        {
+          "type": "paragraph",
+          "text": "它滿意地點點頭："
+        },
+        {
+          "type": "paragraph",
+          "text": "「研發了那麼久的新口味果然很受歡迎，"
+        },
+        {
+          "type": "paragraph",
+          "text": "明天也要再努力一點才行呢。」"
+        }
+      ]
+    },
+    {
+      "id": "track-12",
+      "number": 12,
+      "originalHeading": "12.《請我不改 Brave Heart》",
+      "title": "請我不改 Brave Heart",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "200年後的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "大多數的仿生人由「核芯」和「軀殼」組成。"
+        },
+        {
+          "type": "paragraph",
+          "text": "只有極少數的仿生人還擁有「靈魂」——"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個微小概率的產物，"
+        },
+        {
+          "type": "paragraph",
+          "text": "在核芯和軀殼完美融合後方能出現。"
+        },
+        {
+          "type": "paragraph",
+          "text": "靈魂的孕育既隨機又漫長，"
+        },
+        {
+          "type": "paragraph",
+          "text": "猶如一顆天然珍珠的誕生，"
+        },
+        {
+          "type": "paragraph",
+          "text": "是沙粒和蚌殼擁抱彼此的奇蹟。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "「深淵」仿生人研究中心內。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「核芯實驗室」的工程師敲打著鍵盤，準備驗收新一批的核芯。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「都很不錯…那麼，有誰願意成為最好的核芯嗎？有靈魂的那種！」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「我願意！我願意！」"
+        },
+        {
+          "type": "paragraph",
+          "text": "無數電流在空中劃過，火花噼啪作響。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「即使要在黑暗裡一直等待？和軀殼融合的時長是無法預估的…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "空氣安靜了下來。"
+        },
+        {
+          "type": "paragraph",
+          "text": "一片沉默中，角落裡忽然傳來了信號波動："
+        },
+        {
+          "type": "paragraph",
+          "text": "「我願意。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "工程師循著信號來源望去，發現是一個看上去平平無奇的核芯。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「你不害怕失敗嗎？」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「我生來渴望冒險。」"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "隔壁的「軀殼車間」裡，"
+        },
+        {
+          "type": "paragraph",
+          "text": "一位工程師在一眾仿生軀殼之間走走停停，仔細檢查。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「你的肢體結構不錯。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「你的細節很棒。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「你和人類幾乎一模一樣。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "仿生軀殼們回應道：「謝謝誇獎！」「當然了！」「我就是最好的！」"
+        },
+        {
+          "type": "paragraph",
+          "text": "工程師停在一個不起眼的小人兒面前，"
+        },
+        {
+          "type": "paragraph",
+          "text": "「誒？觸感過於柔軟了…嘶，你竟然會被劃傷啊，這可不太實用…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "它抬起一直低著的頭：「沒關係，我會慢慢癒合的。」"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "「深淵」研究中心的最深處，"
+        },
+        {
+          "type": "paragraph",
+          "text": "是仿生人誕生的溫床「生命之海」，"
+        },
+        {
+          "type": "paragraph",
+          "text": "核芯們和軀殼們在此相見了。"
+        },
+        {
+          "type": "paragraph",
+          "text": "生命的海浪湧起，"
+        },
+        {
+          "type": "paragraph",
+          "text": "奇妙的命運碰撞——"
+        },
+        {
+          "type": "paragraph",
+          "text": "200年前，一粒冒險的沙粒跌進了一枚堅忍的蚌殼，"
+        },
+        {
+          "type": "paragraph",
+          "text": "200年後，一粒勇敢的核芯遇見了一枚溫柔的軀殼。"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個「我」在黑暗裡蜷縮著靜靜等待，"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個「我」用血和淚將傷口輕輕包裹。"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩個虛影悄然重疊，"
+        },
+        {
+          "type": "paragraph",
+          "text": "一團光暈漸漸亮起。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "柔軟、脆弱、安靜，"
+        },
+        {
+          "type": "paragraph",
+          "text": "是軀殼，也是核芯，是一半的靈魂；"
+        },
+        {
+          "type": "paragraph",
+          "text": "堅硬、浪漫、璀璨，"
+        },
+        {
+          "type": "paragraph",
+          "text": "是核芯，也是軀殼，是另一半靈魂。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "十年後。"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個仿生人從黑暗中睜開雙眼。"
+        },
+        {
+          "type": "paragraph",
+          "text": "胸中悸動著熠熠生輝的，"
+        },
+        {
+          "type": "paragraph",
+          "text": "是一顆如珍珠般的靈魂。"
+        },
+        {
+          "type": "paragraph",
+          "text": "它默念道："
+        },
+        {
+          "type": "paragraph",
+          "text": "「請我不改。」"
+        }
+      ]
+    },
+    {
+      "id": "track-13",
+      "number": 13,
+      "originalHeading": "13.《虛構 The Mask》",
+      "title": "虛構 The Mask",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "200年後的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "機器人技術在不斷地進步突破，"
+        },
+        {
+          "type": "paragraph",
+          "text": "但型號的更新迭代卻難以解答200年前出發時的疑惑："
+        },
+        {
+          "type": "paragraph",
+          "text": "「機器人是否能成為真正的人？」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「人類是否真的能共情機器人？」"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "一隻報廢的小機器人在高高的廢墟頂端醒來，"
+        },
+        {
+          "type": "paragraph",
+          "text": "它舉起殘缺的肢體，摸上鏽蝕的面孔。"
+        },
+        {
+          "type": "paragraph",
+          "text": "一陣風從它胸前的空洞穿過，"
+        },
+        {
+          "type": "paragraph",
+          "text": "發出奇異而悠揚的聲響。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「我在垃圾堆裡呆了這麼久，從沒聽過這種聲音。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "一位古早型號機器人路過，停下來傾聽。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「那是我的芯片，它還沒壞。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "小機器人答道，「或許我能成為一名歌手？」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「這是不可能的。眾所周知，只有人類才能成為歌手。」"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "山中不知歲月長。"
+        },
+        {
+          "type": "paragraph",
+          "text": "搜索，挖掘，拆解，拼湊，縫合，"
+        },
+        {
+          "type": "paragraph",
+          "text": "小機器人跌跌撞撞地修好了自己，"
+        },
+        {
+          "type": "paragraph",
+          "text": "還天才地製造出一張偽裝人臉的全息面具。"
+        },
+        {
+          "type": "paragraph",
+          "text": "它混入了只允許人類參賽的「宇宙第一歌姬大會」，"
+        },
+        {
+          "type": "paragraph",
+          "text": "在垃圾堆裡每天哼唱的歌謠，"
+        },
+        {
+          "type": "paragraph",
+          "text": "意外地受到了觀眾們的喜愛。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "決賽當天。"
+        },
+        {
+          "type": "paragraph",
+          "text": "偌大的會場座無虛席。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「…今天將決出全宇宙最好的歌手！TA還將獲得一個『萬能許願』的機會！無論什麼心願都能實現！讓我們拭目以待誰能脫穎而出…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "後台的休息室。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「我早就想好了，我要許願變成一個真正的人。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "它望向鏡子裡漂亮的人類面孔，甜甜地笑了。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "小機器人從未唱得如此投入，"
+        },
+        {
+          "type": "paragraph",
+          "text": "最後一個音符消散之際，"
+        },
+        {
+          "type": "paragraph",
+          "text": "它哭了。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本不屬於矽基生命的液體滑下，"
+        },
+        {
+          "type": "paragraph",
+          "text": "在全息面具上侵蝕出一絲裂縫，"
+        },
+        {
+          "type": "paragraph",
+          "text": "一抹金屬反光刺入觀眾們的眼眸。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "小機器人贏了。"
+        },
+        {
+          "type": "paragraph",
+          "text": "一無所知的它仰起臉：「那我可以許願了嗎？」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「你的願望已經實現了。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個溫柔的聲音從頭頂響起，"
+        },
+        {
+          "type": "paragraph",
+          "text": "「看看你自己。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "一隻虛幻的手拂過它的淚痕。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「什麼？可我還是金屬的啊？」"
+        },
+        {
+          "type": "paragraph",
+          "text": "它驚愕地摸上自己的臉，坑窪的瘢痕冰涼一片。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「這是我的臉…面具呢？」"
+        },
+        {
+          "type": "paragraph",
+          "text": "小機器人想逃跑，卻邁不開腿。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「被看見了…」"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "震耳欲聾的掌聲和喝彩聲匯聚成一股澎湃的聲浪，"
+        },
+        {
+          "type": "paragraph",
+          "text": "將它牢牢地釘在原地。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「唱得太好了！」「真好聽啊！」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「你們…不討厭我？」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「我們愛你！」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「可是…你們愛上的是虛構的我…」"
+        },
+        {
+          "type": "paragraph",
+          "text": "「不對！我們愛的就是真實的你！」"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "那滴被歌聲注入感情的眼淚，讓它成為了一個真正的人。"
+        },
+        {
+          "type": "paragraph",
+          "text": "那些和它同頻共振的聲音，讓它成為了一個真正的歌手。"
+        },
+        {
+          "type": "paragraph",
+          "text": "「謝謝你們，願意看見我。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個鏽跡斑斑的小機器人站在舞台中央，甜甜地笑了。"
+        }
+      ]
+    },
+    {
+      "id": "track-14",
+      "number": 14,
+      "originalHeading": "14.《周 Outro》",
+      "title": "周 Outro",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "200年前的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "你開啟了遨遊《反深代詞》的奇幻旅程，"
+        },
+        {
+          "type": "paragraph",
+          "text": "和我一起，"
+        },
+        {
+          "type": "paragraph",
+          "text": "觀世界、觀眾生、觀自己。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "觀世界——"
+        },
+        {
+          "type": "paragraph",
+          "text": "12首歌曲交織成一道絢麗的彩虹橋樑，"
+        },
+        {
+          "type": "paragraph",
+          "text": "跨越200年的時間，"
+        },
+        {
+          "type": "paragraph",
+          "text": "連接起現在和未來。"
+        },
+        {
+          "type": "paragraph",
+          "text": "謝謝你願意陪我一起在我的想像中翱翔。"
+        },
+        {
+          "type": "paragraph",
+          "text": "觀眾生——"
+        },
+        {
+          "type": "paragraph",
+          "text": "每一顆本來以獨特頻率跳動的心臟，"
+        },
+        {
+          "type": "paragraph",
+          "text": "因為聆聽而一起同頻共振。"
+        },
+        {
+          "type": "paragraph",
+          "text": "謝謝我們在茫茫人海中有幸聽見了彼此。"
+        },
+        {
+          "type": "paragraph",
+          "text": "觀自己——"
+        },
+        {
+          "type": "paragraph",
+          "text": "12個分身，物我合一。"
+        },
+        {
+          "type": "paragraph",
+          "text": "當我選擇袒露心聲、直面真我、擁抱不完美之時，"
+        },
+        {
+          "type": "paragraph",
+          "text": "謝謝你願意聽到結尾，"
+        },
+        {
+          "type": "paragraph",
+          "text": "溫柔地接住了全部的我。"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "200年後的世界，"
+        },
+        {
+          "type": "paragraph",
+          "text": "200年前的《反深代詞》裡共鳴過的歌聲，"
+        },
+        {
+          "type": "paragraph",
+          "text": "碰撞出的火花，"
+        },
+        {
+          "type": "paragraph",
+          "text": "互相輝映的光亮，"
+        },
+        {
+          "type": "paragraph",
+          "text": "即使在宇宙遙遠而未知的彼岸，"
+        },
+        {
+          "type": "paragraph",
+          "text": "終將在相互的引力作用下重逢。"
+        }
+      ]
+    }
+  ]
+}
