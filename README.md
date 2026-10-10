@@ -1,5 +1,8 @@
 # 《反深代詞》專輯敘事網站
 
+> 🌐 **線上網站網址**：[https://zz1ran.github.io/shenself/](https://zz1ran.github.io/shenself/)  
+> ⚠️ **免責聲明**：此網頁由粉絲個人製作，非官方。
+
 React + TypeScript + Vite，採用 CSS Modules。專輯文字的唯一來源是 `source/反深代词 _ 周深.html`。不使用原網頁的腳本、外部連結、封面或音源。
 
 ## 安裝與啟動
